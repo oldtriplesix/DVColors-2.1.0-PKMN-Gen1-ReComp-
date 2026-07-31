@@ -1,0 +1,13 @@
+{
+  "id": "dvcolors",
+  "name": "DV Colors",
+  "version": "2.1.0",
+  "entry": "main.lua",
+  "api": 2,
+  "game_version": ">=0.1.29",
+  "category": "VISUAL",
+  "profile": "content",
+  "affects_link": false,
+  "description": "Shifts each Pokemon's battle palette slightly based on its DVs, Stadium-style, with a full swap on the Gen 2 shiny DV pattern.",
+  "permissions": ["engine_internals"]
+}
